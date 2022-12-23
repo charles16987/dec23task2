@@ -1,0 +1,176 @@
+.fa-circle{
+    color: #2c31a6;
+    padding: 10px 10px;
+    background: #e8ecef;
+    display: flex;
+    align-items: center;
+    border-radius: 10px;
+}
+
+.leftside{
+    width: 450px;
+    position: relative;
+}
+
+.col-6{
+    height: 100vh;
+}
+
+.head{
+    margin-top: -80px;
+    margin-bottom: 60px;
+}
+
+.text{
+    color: #979ca0;
+    font-size: 19px;
+}
+
+.form-control{
+    box-shadow: none !important;
+}
+
+.form-check-input{
+    box-shadow: none !important;
+    cursor: pointer;
+}
+
+.text1{
+    color:#4548ac ;
+    font-weight: bolder;
+    cursor: pointer;
+}
+
+.btn{
+    box-shadow: none !important;
+}
+
+.btn1{
+    background-color:#3438cd !important ;
+    color: #fff;
+}
+.btn1:hover{
+    background-color:#3438cd !important;
+}
+
+.btn:active{
+    background-color:#3438cd !important;
+}
+
+.btn2{
+    background: #fff;
+    color: #000;
+    border: 1px solid #dfe0e2 !important;
+}
+
+.btn2:hover{
+    background: #fff;
+    color: #000 !important;
+    
+}
+.btn2:focus{
+    background: #fff !important;
+    color: #000;
+
+}
+.btn2:active{
+    background: #fff !important;
+    color: #000 !important;
+}
+
+.btn{
+    border: none;
+}
+
+.footer{
+    position: absolute;
+
+    bottom: -180px;
+    left: -150px;
+}
+
+
+.bg-primary{
+    background: #3438cd !important;
+}
+
+
+.carousel-item{
+    width: 100%;
+    height: 100vh !important;
+    object-fit: cover !important;
+}
+
+.carousel-item .img1{
+    width: 100px !important;
+}
+
+.carousel-caption{
+    color: #fff !important;
+}
+
+.ousel-dark .carousel-indicators [data-bs-target]{
+    background: #fff !important;
+
+
+}
+
+/* .carousel-control-prev{
+    position: relative;
+}
+
+.carousel-control-next{
+    position: relative;
+} */
+
+
+/* .carousel-control-next-icon{
+    position: absolute;
+
+    font-size:18px !important ;
+
+    bottom: 200px;
+    right: -450px;
+
+}
+
+.carousel-control-prev-icon{
+    position: absolute;
+    bottom: 200px;
+    left: 320px;
+} */
+
+.carousel-caption{
+    position: absolute;
+    bottom: 220px;
+}
+
+.carousel-indicators{
+  position: absolute;
+  bottom: 186px;
+}
+
+
+.carousel-indicators [data-bs-target]{
+    width: 10px;
+    height: 10px;
+    border-radius: 50% !important;
+
+}
+
+.carousel-dark .carousel-indicators [data-bs-target]{
+    background-color: #fff !important;
+}
+
+
+
+
+
+.social{
+    /* margin-top: -130px !important; */
+    height: 80%;
+}
+
+.carousel-control-next-icon, .carousel-control-prev-icon{
+    color: #fff !important;
+}
